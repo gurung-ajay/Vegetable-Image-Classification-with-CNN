@@ -5,7 +5,9 @@ For more information about the dataset, here's the link: https://www.kaggle.com/
 
 Python libraries I used:  Tensorflow, OpenCV, Matplotlib, Numpy and Scikit Learn
 
-I trained and measured the performance with train and validation data.
-Finally, I performed evaluation on unseen data i.e. test data for finding accuracy and f1 scores on which it performed well.
+I trained and monitored the performance with train and validation data.
+Then, I performed evaluation on unseen data i.e. test data for finding accuracy and f1 scores on which it performed well.
 * Accuracy = 92.63%
 * F1 score = 0.9265
+
+Finally, I used the model to predict the class labels of some individual vegetable images for testing its practical usage.
